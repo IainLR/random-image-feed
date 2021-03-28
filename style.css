@@ -14,9 +14,3 @@ body {
   overflow: hidden;
   margin: 0;
 }
-
-@media all and (max-width: 300px) {
-  body {
-    color: blueviolet;
-  }
-}
